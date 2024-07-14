@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Srinid12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Srinidhi
+- 👀 I’m interested in coding 
+- 🌱 I’m currently pursuing my bachelor's degree in computer science and engineering at PSNACET.
+- 💞️ I’m looking to collaborate on real world projects and digital scenarios.
+- 📫 How to reach me https://www.linkedin.com/in/sreejaa-srinidhi-5b16b3296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: Code builds everything...!
+
+
+
+
+
+
 
 <!---
 Srinid12/Srinid12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
